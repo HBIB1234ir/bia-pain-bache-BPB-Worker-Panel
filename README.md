@@ -1,20 +1,28 @@
-<h1 align="center">💦 BPB Panel</h1>
-
-### 🌏 Readme in [Farsi](README_fa.md)
+> **[🇮🇷Persian](README-fa.md)**
+> **[🇬🇧English](README.md)**
 
 <p align="center">
-  <img src="docs/assets/images/Panel.jpg">
+  <img src="docs/assets/images/Panel.jpg">
 </p>
-<br>
+
+<p align="center">
+  <img src="docs/assets/images/Panel-2.jpg">
+</p>
+<br><br>
 
 ## Introduction
-This project is dedicated to developing a user panel for the [Cloudflare-workers/pages proxy script](https://github.com/yonggekkk/Cloudflare-workers-pages-vless) created by [yonggekkk](https://github.com/yonggekkk). The panel offers two deployment options: 
+This project is dedicated to developing a user panel for the [Cloudflare-workers/pages proxy script](https://github.com/yonggekkk/Cloudflare-workers-pages-vless) created by [yonggekkk](https://github.com/yonggekkk).
+
+HUGE THANKS TO
+[bia pain bache](https://github.com/bia-pain-bache) for creating these amazing panel
+
+----
+
+The panel offers two deployment options:
 - **Worker** deployment
 - **Pages** deployment
 <br>
 
-🌟 If you found **BPB Panel** valuable, Your donations make all the difference 🌟
-- **USDT (BEP20):** `0x111EFF917E7cf4b0BfC99Edffd8F1AbC2b23d158`
 
 ## Features
 
@@ -43,17 +51,17 @@ This project is dedicated to developing a user panel for the [Cloudflare-workers
 <br>
 
 ## Supported Clients
-| Client  | Version | Fragment |
+| Client  | Version | Fragment |
 | :-------------: | :-------------: | :-------------: |
-| **v2rayNG**  | 1.8.19 or higher  | :heavy_check_mark: |
-| **v2rayN**  | 6.42 or higher  | :heavy_check_mark: |
-| **Nekobox**  |   | :x: |
-| **Sing-box**  | 1.8.10 or higher  | :x: |
-| **Streisand**  |   | :heavy_check_mark: |
-| **V2Box**  |   | :x: |
-| **Shadowrocket**  |   | :x: |
-| **Nekoray**  |   | :heavy_check_mark: |
-| **Hiddify**  |   | :x: |
+| **v2rayNG**  | 1.8.19 or higher  | :heavy_check_mark: |
+| **v2rayN**  | 6.42 or higher  | :heavy_check_mark: |
+| **Nekobox**  |   | :x: |
+| **Sing-box**  | 1.8.10 or higher  | :x: |
+| **Streisand**  |   | :heavy_check_mark: |
+| **V2Box**  |   | :x: |
+| **Shadowrocket**  |   | :x: |
+| **Nekoray**  |   | :heavy_check_mark: |
+| **Hiddify**  |   | :x: |
 
 
 ---
